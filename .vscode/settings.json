@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "HorrorGameTest.sln"
+    "dotnet.defaultSolution": "HorrorGameTest.sln",
+    "git.ignoreLimitWarning": true
 }
